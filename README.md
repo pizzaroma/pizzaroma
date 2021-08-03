@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pizzaroma
-- 👀 I’m interested in blockchain technology and it's usecases in law related fields.
+- 👀 I’m interested in blockchain technology and it's usecases in law related fields as i currently work in law myself.
 - 🌱 I’m currently still learning coding and other fun stuff.
 
 
